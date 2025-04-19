@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate tinkerer, developer, and builder 
 
 ## 🛠️ Currently Learning
 
+- **Java** – my main strength for building powerful backend systems and OOP-based solutions ☕
 - **C / C++** – for embedded systems and Arduino  
 - **Arduino & Raspberry Pi** – real-world automation and IoT  
 - **Full Stack Web Development** – HTML, CSS, **Bootstrap**, JavaScript, React, Node.js, MongoDB  
@@ -22,18 +23,6 @@ Welcome to my GitHub profile! I'm a passionate tinkerer, developer, and builder 
 - **OpenCV** – image processing, computer vision & AI-powered interactions 👁️‍🗨️  
 - **DSA (Data Structures & Algorithms)** – slowly taming the logic dragon 🐉  
 - **Version Control** – Git & GitHub for collaboration and tracking
-
----
-
-## 📁 Projects You'll Find Here
-
-- 🛸 Autonomous and sensor-based robots
-- 💡 Smart lighting and automation systems
-- 🌐 Web apps (soon to be full stack!)
-- 📷 OpenCV-powered vision projects
-- ⚙️ DIY electronics and Raspberry Pi experiments
-- 🔗 Hardware-software integrated systems
-- 🧠 Beginner-friendly DSA explorations and coding exercises
 
 ---
 
