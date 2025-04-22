@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm a passionate tinkerer, developer, and builder 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C8102E.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%230A0A0A.svg?style=for-the-badge&logo=openai&logoColor=white)
