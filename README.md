@@ -52,10 +52,11 @@ Welcome to my GitHub profile! I'm a passionate tinkerer, developer, and builder 
 
 ## 📫 Reach Me At
 
-- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roysubhrodiproy@gmail.com) roysubhrodiproy@gmail.com
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) www.linkedin.com/in/subhrodip-roy-351607327/
-- ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) www.instagram.com/higgs_of.sin.gularity/
-- ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) www.facebook.com/subhrodip.roy.927/
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roysubhrodiproy@gmail.com) &nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhrodip-roy-351607327/) &nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/higgs_of.sin.gularity/) &nbsp;&nbsp;&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/subhrodip.roy.927/) &nbsp;&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/roysubhrodip_on)
 
 ---
 
