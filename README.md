@@ -4,22 +4,24 @@ Welcome to my GitHub profile! I'm a passionate tinkerer, developer, and builder 
 
 ---
 
-## 🔍 About Me
+## 🔍 **About Me**
 
-- 🤖 I’m fascinated by **robotics**, automation, and embedded systems.
-- 🌐 I also explore the **world of web development** and software engineering.
-- 🧩 I love combining hardware and software to create meaningful, real-world solutions.
-- 🛠️ I'm always eager to experiment and build a **wide range of projects** — from simple gadgets to smart systems.
+- 🤖 I’m fascinated by **robotics**, **automation**, and **embedded systems**. 🚀  
+- 📊 Passionate about **data science**, learning the stories buried within the data. 📈  
+- 🌐 **Full-time coder at mind and body**, constantly immersed in the world of **code**, always picking up new skills along the way. 💻  
+- 🪐 My deepest curiosity lies in the **cosmic** and **quantum realms**, exploring the vast mysteries of the universe. 🌌✨  
+- 🧬 Deep diving into **Microsoft Majorana-1**, trying to untangle the threads of cutting-edge **quantum computing**. 🔍💡  
+- 🛠️ At heart, I’m a relentless builder, **fusing hardware and software** to create **real world solutions** that truly make a difference. 🔧🔗
 
 ---
 
 ## 🛠️ Currently Learning
 
 - **Java** – my main strength for building powerful backend systems and OOP-based solutions ☕
-- **C / C++** – for embedded systems and Arduino  
+- **C / C++** – for embedded systems and development boards  
 - **Arduino & Raspberry Pi** – real-world automation and IoT  
-- **Full Stack Web Development** – HTML, CSS, **Bootstrap**, JavaScript, React, Node.js, MongoDB  
-- **Python** – scripting, automation, and backend dev  
+- **Full Stack Web Development** – HTML, CSS, Bootstrap, JavaScript, React, Node.js, MongoDB  
+- **Python** – scripting, automation, modelling AI and backend dev  
 - **OpenCV** – image processing, computer vision & AI-powered interactions 👁️‍🗨️  
 - **DSA (Data Structures & Algorithms)** – slowly taming the logic dragon 🐉  
 - **Version Control** – Git & GitHub for collaboration and tracking
@@ -62,3 +64,4 @@ Welcome to my GitHub profile! I'm a passionate tinkerer, developer, and builder 
 
 Thanks for stopping by!  
 Feel free to explore, drop feedback, or connect if you’re into anything tech + tinkering. 🚀
+well one day, I dream of playing games on a PC 🌟, powered by a 1TB VRAM GPU 🖥️💥, developed by me✨, just a wish though 💭
