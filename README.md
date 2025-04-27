@@ -64,4 +64,4 @@ Welcome to my GitHub profile! I'm a passionate tinkerer, developer, and builder 
 
 Thanks for stopping by!  
 Feel free to explore, drop feedback, or connect if you’re into anything tech + tinkering. 🚀
-well one day, I dream of playing games on a PC 🌟, powered by a 1TB VRAM GPU 🖥️💥, developed by me✨, just a wish though 💭
+> **well one day, I dream of playing games on a PC 🌟, powered by a 1TB VRAM GPU 🖥️💥, developed by me✨, just a wish though 💭**
